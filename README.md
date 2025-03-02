@@ -15,7 +15,7 @@ This project implements a simple neural network designed to solve the XOR proble
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone <YOUR_GIT_URL>
+   git clone https://github.com/prabhatpushp/TicTacToe-RL
    cd TicTacToe RL
    ```
 2. Set up a virtual environment (optional but recommended):
